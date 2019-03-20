@@ -17,3 +17,11 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 Binary classification
 Python and R basics
+
+## Dataset
+
+The Titanic data files can be downloaded from Kaggle:  https://www.kaggle.com/c/titanic/data
+
+The data has been split into two groups:
+- training set (train.csv).  - 891 records
+- test set (test.csv) - 418 records
