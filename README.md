@@ -23,5 +23,5 @@ Python and R basics
 The Titanic data files can be downloaded from Kaggle:  https://www.kaggle.com/c/titanic/data
 
 The data has been split into two groups:
-- training set (train.csv).  - 891 records
+- training set (train.csv)  - 891 records
 - test set (test.csv) - 418 records
